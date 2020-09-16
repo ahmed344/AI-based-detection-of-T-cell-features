@@ -1,2 +1,10 @@
-# AI-based-detection-of-T-cell-features
-Protein-patterning has emerged as a powerful tool to interrogate adherent cells. Yet, there are no standard tools of fabrication, or analysis of the response of the cell to a spatially periodic stimulus. We propose a technique combining electron-beam lithography and surface functionalization to fabricate nano-patterns compatible with advanced imaging. The regularity of the pattern is exploited by a deep-learning algorithm to reveal that T cells organize their actin network differently on patterned or homogeneously stimulating substrates - an effect invisible to the unassisted human eye even after extensive image analysis. Our integrated fabrication and analysis tool-box should be useful for exploring general correlation between a spatially-structured stimulation and the cellular response.
+# Ligand nano-cluster array enables AI based detection of hidden features in T cell architecture
+Protein-patterning has emerged as a powerful means to interrogate adhering cells. Yet, there
+are no standard tools to apply a sub-micron periodic stimulus or to analyse the response. We
+propose a technique combining electron-beam lithography and surface functionalization to
+fabricate nano-patterns compatible with advanced imaging. The repetitive pattern enables
+a deep-learning algorithm to reveal that T cells organize their membrane and actin network
+differently depending on whether the ligands are clustered or homogeneously distributed -
+an effect invisible to the unassisted human eye even after extensive image analysis. Our in-
+tegrated fabrication and analysis tool-box should be useful for exploring general correlation
+between a spatially-structured sub-cellular stimulation and the cellular response.
