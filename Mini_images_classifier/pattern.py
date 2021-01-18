@@ -12,7 +12,7 @@ from fitting import Fit_Gaussian
 
 class Lattice():
     
-    def __init__(self, coordinates, l_min = 0, l_max = 2.5, showing = False):
+    def __init__(self, coordinates, l_min = 0.5, l_max = 1.3, showing = False):
         
         # Coordinates of the measured lattice.
         coord = pd.read_csv(coordinates)
